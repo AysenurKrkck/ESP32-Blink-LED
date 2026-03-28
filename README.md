@@ -13,8 +13,6 @@ Devre, güvenli akım sınırlaması ve düşük güç tüketimi odaklı tasarla
 
 The circuit is designed with a focus on safe current limiting and low power consumption.
 
-![LedOn](https://github.com/user-attachments/assets/74b318f2-b79d-4046-b1d3-9ce9f05cb1ea)
+![LedOn](https://github.com/user-attachments/assets/dc8e2d7a-eef3-472b-8c15-aafbdb114a2b)
 
-![LedOff](https://github.com/user-attachments/assets/f1713837-d4a7-4a69-9e48-bbd428b7b0fc)
-
-
+![LedOff](https://github.com/user-attachments/assets/2a38b97f-fb4d-4113-bc7f-5afc745ba73a)
